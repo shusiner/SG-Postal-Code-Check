@@ -4,9 +4,8 @@ followed https://itnext.io/step-by-step-building-and-publishing-an-npm-typescrip
 
 used eslint instead of tslint as it is depreciated
 
+Make sure version control is empty
 ```
-git add -A && git commit -m "Update version"
-git push
 npm version patch
 npm publish
 ```
