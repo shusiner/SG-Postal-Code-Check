@@ -1,6 +1,6 @@
 {
   "name": "sg-postal-code-check",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if postal code exist",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
