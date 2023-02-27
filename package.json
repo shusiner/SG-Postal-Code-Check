@@ -1,7 +1,7 @@
 {
   "name": "sg-postal-code-check",
   "version": "1.0.3",
-  "description": "A nice greeter",
+  "description": "Check if postal code exist",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -20,8 +20,8 @@
     "url": "git+https://github.com/shusiner/SG-Postal-Code-Check.git"
   },
   "keywords": [
-    "Hello",
-    "Greeter"
+    "Singapore",
+    "Postal Code"
   ],
   "author": "shusiner",
   "license": "ISC",

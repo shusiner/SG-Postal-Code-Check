@@ -4,7 +4,9 @@ followed https://itnext.io/step-by-step-building-and-publishing-an-npm-typescrip
 
 used eslint instead of tslint as it is depreciated
 
-Make sure version control is empty
+use checkPostal to check if postal code exist
+
+Make sure version control is empty, to update version
 ```
 npm version patch
 npm publish
